@@ -1,3 +1,4 @@
+#Some modifications in Makefile is made in order to install fern with opencv2.3.1#
 VER=1.1
 
 EXECUTABLE_1_NAME = ferns_demo
